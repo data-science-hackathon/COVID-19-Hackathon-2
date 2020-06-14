@@ -2,7 +2,7 @@
 This repository includes the following files:
 1. A pdf presentation of the results.
 2. Matlab codes
-3. Datasets for analysis
+3. Datasets for analysis (.xlsx)
 
 How to run:
 1. Download the datasets and codes m files.
